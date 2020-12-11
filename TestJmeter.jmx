@@ -149,7 +149,7 @@
           <hashTree>
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="响应断言" enabled="true">
               <collectionProp name="Asserion.test_strings">
-                <stringProp name="-1007812922">&quot;status&quot;:&quot;扣款中&quot;</stringProp>
+                <stringProp name="1456388364">&quot;status&quot;:&quot;扣款中222222222&quot;</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
