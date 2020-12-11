@@ -60,7 +60,7 @@
             <stringProp name="connectionProperties"></stringProp>
           </JDBCDataSource>
           <hashTree/>
-          <JDBCSampler guiclass="TestBeanGUI" testclass="JDBCSampler" testname="获取到user_pay_info关联No" enabled="true">
+          <JDBCSampler guiclass="TestBeanGUI" testclass="JDBCSampler" testname="获取到案件号" enabled="true">
             <stringProp name="dataSource">MySQL</stringProp>
             <stringProp name="queryType">Select Statement</stringProp>
             <stringProp name="query">SELECT ACCT_NO FROM ermasdb.ermas_case_main WHERE id=&apos;3_20102917B9F15770A14E4D128ED1DBC8FEB51C4D&apos;</stringProp>
